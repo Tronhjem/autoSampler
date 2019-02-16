@@ -1,8 +1,8 @@
 {
 	"name" : "autoSampler",
 	"version" : 1,
-	"creationdate" : -664811524,
-	"modificationdate" : -664726170,
+	"creationdate" : 2082848398,
+	"modificationdate" : 3633177108,
 	"viewrect" : [ 55.0, 63.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -16,12 +16,12 @@
 				"toplevel" : 1
 			}
 ,
-			"sampler.maxpat" : 			{
+			"midiControl.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"midiControl.maxpat" : 			{
+			"sampler.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -30,10 +30,6 @@
 				"kind" : "patcher",
 				"local" : 1
 			}
-
-		}
-,
-		"code" : 		{
 
 		}
 
@@ -47,5 +43,11 @@
 
 	}
 ,
-	"detailsvisible" : 0
+	"detailsvisible" : 0,
+	"amxdtype" : 0,
+	"readonly" : 1,
+	"devpathtype" : 0,
+	"devpath" : ".",
+	"sortmode" : 0,
+	"viewmode" : 0
 }
